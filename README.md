@@ -8,6 +8,8 @@ The goal of this project is to develop an intelligent agent capable of learning 
 In order to facilitate the training process of the agent, the initial dataset was preprocessed so as all images to be in the shape of (width: 30, height: 20, dim: 1) in gray scale. 
 Some indicatinve examples of the preprocessed dataset are presented below:
 
-![Samples Image](images/dataset_sample.png)
+![Rock Samples Image](images/rock_samples.png)
+![Scissor Samples Image](images/scissor_samples.png)
+![Paper Samples Image](images/paper_samples.png)
 
 
