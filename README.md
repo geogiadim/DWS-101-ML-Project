@@ -9,7 +9,7 @@ In order to facilitate the training process of the agent, the initial dataset wa
 Some indicatinve examples of the preprocessed dataset are presented below:
 
 ![Rock Samples Image](images/rock_samples.png)
-![Scissor Samples Image](images/scissor_samples.png)
+![Scissor Samples Image](images/scissor_sample.png)
 ![Paper Samples Image](images/paper_samples.png)
 
 
